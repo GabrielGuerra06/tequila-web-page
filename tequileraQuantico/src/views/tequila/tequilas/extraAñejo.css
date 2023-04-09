@@ -1,0 +1,100 @@
+.extraAñejoContainer{
+    padding-bottom: 100px;
+}
+
+.imgExtraAñejo{
+    /* display: flex; */
+    margin-left: 103px;
+    object-fit:fill;
+    height: 400px;
+    width: 50%;
+
+}
+
+.tituloExtraAñejo{
+    display:flex;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bold;
+    text-shadow: 3px 3px rgb(198, 56, 13);
+    font-size: 100px;
+    padding-bottom: 150px;
+    text-align: center;
+    margin-left: 6%;
+    margin-top: 100px;
+    color: aliceblue;
+    float: left;
+}
+
+.containerExtraAñejo{
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+    padding: 130px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 400px;
+    background-color:rgb(198, 56, 13);
+    float: left;
+    font-size: 25px;
+    width: 50%;
+}
+
+
+
+.imagenAroma4{
+    /* position: relative;
+    display: flex; */
+    height: 200px;
+    width: 25%;
+}
+
+.aromaExtraAñejo{
+    text-align: center;
+    float: right;
+    font-size: 8px;
+}
+
+.imagenSabor4{
+    display: flex;
+    float: right;
+    height: 200px;
+    width: 25%;
+}
+.saborExtraAñejo{
+    display: contents;
+    float: right;
+    text-align: center;
+    font-size: 8px; 
+}
+
+.tituloAroma4{
+    color: rgb(198, 56, 13);
+    margin-right: 65px;
+    font: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px aliceblue;
+    padding: 20px 0;
+    font-size: 35px;
+}
+
+.textoAroma4{
+    color: aliceblue;
+   margin-right: 42px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+}
+
+.textoSabor4{
+    color: aliceblue;
+    margin-right: 42px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-bottom: 100px; 
+}
+
+
+.card-ExtraAñejo{
+    float: right;
+    height: 400px;
+    width: 50%;
+    perspective: 1000px;
+}

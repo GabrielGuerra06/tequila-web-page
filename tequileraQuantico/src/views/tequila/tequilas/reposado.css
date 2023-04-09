@@ -1,0 +1,99 @@
+.reposadoContainer{
+    padding-bottom: 150px;
+}
+
+.imgReposado{
+    /* display: flex; */
+    margin-left: 118px;
+    object-fit:fill;
+    height: 400px;
+    width: 50%;
+
+}
+
+.tituloReposado{
+    display:flex;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bold;
+    text-shadow: 3px 3px rgb(122, 66, 23);
+    font-size: 100px;
+    text-align: center;
+    margin-left: 8%;
+    padding-bottom: 150px;
+    margin-top: 100px;
+    color: aliceblue;
+    float: left;
+}
+
+.containerReposado{
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+    padding: 130px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 400px;
+    background-color: rgb(122, 66, 23);
+    float: left;
+    font-size: 25px;
+    width: 50%;
+}
+
+
+
+.imagenAroma2{
+    /* position: relative;
+    display: flex; */
+    height: 200px;
+    width: 25%;
+}
+
+.aromaReposado{
+    text-align: center;
+    float: right;
+    font-size: 8px;
+}
+
+.imagenSabor2{
+    display: flex;
+    float: right;
+    height: 200px;
+    width: 25%;
+}
+.saborReposado{
+    display: contents;
+    float: right;
+    text-align: center;
+    font-size: 8px; 
+}
+
+.tituloAroma2{
+    color: rgb(122, 66, 23);
+    margin-right: 65px;
+    font: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px aliceblue;
+    padding: 20px 0;
+    font-size: 35px;
+}
+
+.textoAroma2{
+    color: aliceblue;
+   margin-right: 42px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+}
+
+.textoSabor2{
+    color: aliceblue;
+    margin-right: 42px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-bottom: 100px; 
+}
+
+.card-reposado{
+    float: right;
+    height: 400px;
+    width: 50%;
+    perspective: 1000px;
+}

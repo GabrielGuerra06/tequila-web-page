@@ -1,0 +1,86 @@
+@media only screen and (min-width: 1024px) {
+
+    .container {
+        position: relative;
+        text-align: center;
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 0;
+        padding: 0;
+        width:100%;
+        margin-top: 0;
+        margin-right: 0;
+        padding-bottom: 40px;
+      }
+      
+      .top-left {
+        position: absolute;
+        top: 8px;
+        left: 60%;
+        font-size: 30px;
+      }
+     
+      .top-right {
+        position: absolute;
+        top: 8px;
+        left: 87%;
+        font-size: 30px;
+    
+      }
+      .navbar{ 
+        margin: 0;
+        padding: 0;
+         position: relative;
+         width:fit-content;
+     }
+     .centered {
+        position: absolute;
+        top: 30%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 45px;
+      }
+      .centered2 {
+        position: absolute;
+        top: 42%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+      }
+      .centerButton{
+        position: absolute;
+        top: 50%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        background: none;
+        border-style: solid;
+        border-width: 3px;
+        border-color: white;
+        border-radius: 25px;
+        padding: 10px;
+      
+      }
+      .instagram{
+        background: none;
+        border-style: none;
+      }
+      .facebook{
+        background: none;
+        border-style: none;
+      }
+      .twitter{
+        background: none;
+        border-style: none;
+      }
+    }
+
+    .image{
+      width:144%;
+      /* height: 750px; */
+      align-content: center;
+      margin-right: 0px;
+        }
+
+  
+

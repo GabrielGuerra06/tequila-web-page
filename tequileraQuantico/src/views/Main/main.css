@@ -1,0 +1,159 @@
+.body{
+    background-color: #282c34;
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+.grid{
+    padding-top: 40px;
+    margin-left: 40px;
+    display:inline;
+   
+}
+
+/* .grid-content{
+    animation: scrolling 100s linear infinite ;
+} */
+@keyframes scrolling {
+    0%{ transform: translateY(0vw); }
+    100% {transform: translateY(-50vw);}
+ }
+
+}
+.grid1{
+    width: 400px;
+    height: 550px;
+
+}
+
+.grid2{
+    width: 400px;
+    height: 500px;
+
+}
+
+
+.grid3{
+    width: 400px;
+    height: 600px;
+}
+.grid4{
+    padding-top: 30px;
+    width: 400px;
+    height: 500px;
+
+    
+}
+.grid5{
+    width: 400px;
+    height: 550px;
+}
+.grid6{
+    width: 400px;
+    height: 600px;
+    padding-top: 60px;
+}
+
+
+.grid7{
+    width: 400px;
+    height: 550px;
+ 
+}
+.grid8{
+    width: 400px;
+    height: 500px;
+    padding-top: 60px;
+}
+.grid9{
+    width: 400px;
+    height: 600px;
+    padding-top: 100px;
+}
+.grid10{
+    width: 400px;
+    height: 550px;
+    padding-top: 50px;
+}
+.grid11{
+    width: 400px;
+    height: 550px;
+
+}
+.grid12{
+    width: 400px;
+    height: 550px;
+    padding-top: 100px;
+}
+
+.nav-toggle{
+    height: 5rem;
+    width: 5rem;
+    position: fixed;
+    z-index: 3;
+    left: 50%;
+    bottom: 3rem;
+    transform: translateX(-50%);
+    background-color: rgb(182,142,113);
+    border: none;
+    border-radius: 5rem;
+    box-shadow: 0rem 0rem 4rem rgba(0 0 0/35%);
+
+   /* transition:background-color 0.5s ease; */
+}
+.nav-toggle:hover {
+    background-color: rgb(83, 9, 120);
+    cursor: pointer;
+    border: none;
+        -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+   transition-duration: 500ms;
+  }
+
+.aboutus{
+    height: 4rem;
+    width: 4rem;
+    position: fixed;
+    bottom: 5rem;
+    left: 39%;
+    background-color: green;
+    border: none;
+    border-radius: 5rem;
+}
+.contact{
+    height: 4rem;
+    background-color: green;
+    width: 4rem;
+    position: fixed;
+    border: none;
+    border-radius: 5rem;
+    left: 44%;
+    bottom:10rem
+}
+
+
+.history{
+    height: 4rem;
+    width: 4rem;
+    position: fixed;
+    background-color: green;
+    border: none;
+    border-radius: 5rem;
+    left: 52%;
+    bottom:10rem
+}
+
+.tequila{
+    height: 4rem;
+    width: 4rem;
+    position: fixed;
+    border: none;
+    background-color: green;
+    border-radius: 5rem;
+    left: 56%;
+    bottom:5rem
+}
+

@@ -1,0 +1,92 @@
+
+.socials{
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+align-self: center;
+align-content: center;
+text-align: center;
+
+}
+
+.instagram{
+float: left;
+color: aliceblue;
+align-items: center;
+text-align: center;
+align-self: center;
+justify-content: center;
+
+}
+
+.facebook{
+    float: left;
+    position: relative;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+
+}
+
+.twitter{
+    float: left;
+    position: relative;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    justify-content: center; 
+}
+
+.pinterest{
+    float: left;
+    position: relative;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    justify-content: center; 
+}
+
+.avisos{
+position: relative;
+padding-top: 30px;
+text-align: center;
+color: aliceblue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-bottom: 30px;
+}
+
+.brand{
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(206, 212, 218);
+font-size: 13px;
+margin-left: 250px;
+margin-right: 250px;
+padding-bottom: 30px;
+}
+
+.botonIg{
+    text-align: center;
+    justify-content: center;
+    background: none;
+    border-style: none;
+    width:60px;
+}
+
+.botonesPolíticas{
+    color: aliceblue;
+}
+
+.permiso{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 250px;
+    margin-right: 250px;   
+}
